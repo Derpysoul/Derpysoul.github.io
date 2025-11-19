@@ -11,6 +11,10 @@ h1 {
     color: rgb(255, 54, 31);
 
 }
+span a{
+    color: blue;
+    text-decoration: underline;
+}
 .skills{
     color:rebeccapurple;
 }
